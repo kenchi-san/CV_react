@@ -7,7 +7,6 @@ function ProjectList() {
 
     const tab = [
         {id: 1, value: "javascript"},
-        {id: 2, value: "css"},
         {id: 3, value: "react"},
         {id: 4, value: "php"},
         {id: 5, value: "symfony"},

@@ -4,7 +4,7 @@ function Experience() {
     return (
 
         <div className="experience">
-            <h3>Expérience</h3>
+            <h3>Formations</h3>
             <div className="exp-1">
                 <h4>
                     Développeur d'application PHP/Symfony

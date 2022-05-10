@@ -2,7 +2,7 @@ export const portfolioData = [
   {
     id: 1,
     name: 'snowtricks',
-    languages: ['javascript','css','symfony','bootstrap'],
+    languages: ['javascript','symfony','bootstrap'],
     languagesIcons: ['fab fa-js','fab fa-css3-alt','fab fa-symfony','fab fa-bootstrap'],
     source: 'https://github.com/kenchi-san/snowTricks',
     site: 'https://snowtricks.hugo-charon.fr/',
@@ -12,7 +12,7 @@ export const portfolioData = [
   {
     id: 2,
     name: 'swahilisa',
-    languages: ['php','symfony','bootstrap'],
+    languages: ['symfony','bootstrap'],
     languagesIcons: ['fab fa-symfony','fab fa-bootstrap','fab fa-php'],
     source: 'https://github.com/kenchi-san/association',
     site: 'https://swahilisa.hugo-charon.fr/',
@@ -22,7 +22,7 @@ export const portfolioData = [
   {
     id: 3,
     name: 'billetterie du louvre',
-    languages: ['php','css','symfony','bootstrap'],
+    languages: ['symfony','bootstrap'],
     languagesIcons: ['fab fa-php','fab fa-css3-alt','fab fa-symfony','fab fa-bootstrap'],
     source: 'https://github.com/kenchi-san/louvre-version-s',
     site: 'https://louvre.hugo-charon.fr/',
@@ -42,11 +42,10 @@ export const portfolioData = [
   {
     id: 5,
     name: 'CV',
-    languages: ['javascript','scss','react'],
+    languages: ['scss','react'],
     languagesIcons: ['fab fa-js', 'fab fa-css3-alt',"fab fa-react"],
-    source: 'http://www.github.com',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project5.JPG'
+    picture: './media/cv_react.jpg'
   },
   // {
   //   id: 6,
