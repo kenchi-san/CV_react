@@ -1,6 +1,6 @@
 import React from 'react';
 import Navigation from "../components/Navigation";
-
+import cv from "../media/cv_hugo_charon.pdf"
 function Home(){
     return (
         <div className="home">
@@ -12,7 +12,7 @@ function Home(){
                         Développeur php/Symfony
                     </h2>
                     <div className="pdf">
-                        <a href="./media/CV_hugo_charon.pdf" target="_blank">Télécharger CV</a>
+                        <a href={cv} target="_blank">Télécharger CV</a>
                     </div>
                 </div>
             </div>

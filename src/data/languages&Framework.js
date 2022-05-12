@@ -10,6 +10,7 @@ export const languagesFramework = [
             {id: 1, value: "Symfony", xp: 3},
             {id: 2, value: "Bootstrap", xp: 1},
             {id: 3, value: "React", xp: 0.2},
+            {id: 4, value: "wordpress", xp: 0.2},
 
         ]
     }
