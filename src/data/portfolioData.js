@@ -5,7 +5,7 @@ export const portfolioData = [
         name: 'chalet & caviar',
         languages: ['wordpress'],
         languagesIcons: ['fab fa-wordpress'],
-        source: '',
+        // source: '',
         site: 'https://www.chalet.hugo-charon.fr/',
         info: [{
             version:'',
@@ -16,7 +16,7 @@ export const portfolioData = [
     {
         id: 2,
         name: 'snowtricks',
-        languages: ['javascript', 'symfony', 'bootstrap'],
+        languages: ['php','javascript', 'symfony', 'bootstrap'],
         languagesIcons: ['fab fa-js', 'fab fa-css3-alt', 'fab fa-symfony', 'fab fa-bootstrap'],
         source: 'https://github.com/kenchi-san/snowTricks',
         site: 'https://snowtricks.hugo-charon.fr/',
@@ -29,7 +29,7 @@ export const portfolioData = [
     {
         id: 3,
         name: 'swahilisa',
-        languages: ['symfony', 'bootstrap'],
+        languages: ['php','symfony', 'bootstrap'],
         languagesIcons: ['fab fa-symfony', 'fab fa-bootstrap', 'fab fa-php'],
         source: 'https://github.com/kenchi-san/association',
         site: 'https://swahilisa.hugo-charon.fr/',

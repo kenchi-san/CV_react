@@ -18,12 +18,12 @@ function Navigation() {
                             <span>Accueil</span>
                         </Link>
                     </li>
-                    <li>
-                        <Link to="/competences" >
-                            <i className="fas fa-mountain"></i>
-                            <span>Compétences</span>
-                        </Link>
-                    </li>
+                    {/*<li>*/}
+                        {/*<Link to="/competences" >*/}
+                        {/*    <i className="fas fa-mountain"></i>*/}
+                        {/*    <span>Compétences</span>*/}
+                        {/*</Link>*/}
+                    {/*</li>*/}
                     <li>
                         <Link to="/portfolio" >
                             <i className="fas fa-images"></i>

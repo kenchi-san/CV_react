@@ -1,6 +1,6 @@
 import React from 'react';
 import Navigation from "../components/Navigation";
-import cv from "../media/cv_hugo_charon.pdf"
+import cv from "../media/cv_hugo_charon.png"
 function Home(){
     return (
         <div className="home">
